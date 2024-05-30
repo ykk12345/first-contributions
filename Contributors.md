@@ -24,6 +24,7 @@
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
 - [Kelvin Arias] (https://github.com/KelFrontEndDev) ** Happy Coding! **
 - [Yash Agarwal](https://github.com/Yash05080)**have a great open source journey to everyone 🤙**
+- [YASH KUMAR KAUSHIK](https://github.com/ykk12345)**I will achieve all my dreams**
 - Trishala Ghetiya
 - [Dhruv Chauhan](https://github.com/Dhruv-proto)**Hola Amigos**
 - [Jameson Baker] (https://github.com/Jami-tsm)
